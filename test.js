@@ -1,9 +1,9 @@
 function test1() {
-    console.log("I am in test 1")
+    console.log("I am in test 1");
 }
 
 function test2() {
-    console.log("I am in test 2")
+    console.log("I am in test 2");
 }
 function test3() {
     console.log("I am in test 3");
