@@ -1,9 +1,7 @@
-test1()
-{
+function test1() {
     console.log("I am in test file")
 }
 
-test2()
-{
+function test2() {
     console.log("I am in test 2")
 }
