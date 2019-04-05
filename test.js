@@ -15,3 +15,6 @@ function test5() {
 function test6() {
     console.log("I am in test 6");
 }
+function test4() {
+    console.log("I am in test 3");
+}
