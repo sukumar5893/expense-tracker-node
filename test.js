@@ -7,4 +7,8 @@ function test2() {
 }
 function test3() {
     console.log("I am in test 3");
-} 
+}
+
+function test5() {
+    console.log('I am in test 5')
+}
